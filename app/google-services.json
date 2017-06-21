@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "781265935571",
+    "firebase_url": "https://beerbuddy-1fffe.firebaseio.com",
+    "project_id": "beerbuddy-1fffe",
+    "storage_bucket": "beerbuddy-1fffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781265935571:android:5c8e055e26a855d2",
+        "android_client_info": {
+          "package_name": "com.example.parthnaik.beerbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781265935571-b9fskdfjmh9ene3tcaabed3djg46bd4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvcFrZAgodL46wIjS8HgH5qndgcHq9DY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
